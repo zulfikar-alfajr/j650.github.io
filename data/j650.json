@@ -1,0 +1,144 @@
+{
+  "menu": [
+    {
+      "kategori": "coffee",
+      "nama": "J650 Robusta Coffee Lampung 50 gram",
+      "deskripsi": "100% Robusta Coffee",
+      "harga": 10000,
+      "gambar": "kopi.JPEG"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "J650 Robusta Coffee Lampung Celup",
+      "deskripsi": "100% Robusta Coffee",
+      "harga": 10000,
+      "gambar": "kopi-celup.JPEG"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Cold Brew 250 ml",
+      "deskripsi": "Arabica coffee, Water.",
+      "harga": 12500,
+      "gambar": "suren.JPEG"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Suren Coffee 250 ml",
+      "deskripsi": "Robusta coffee, Water, Brown sugar, Milk.",
+      "harga": 12500,
+      "gambar": "suren.JPEG"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Cappuccino with Jelly 250 ml",
+      "deskripsi": "Robusta coffee, Water, Sugar, Milk, Jelly.",
+      "harga": 12500,
+      "gambar": "cappuccino.JPEG"
+    },
+    {
+      "kategori": "coffee",
+      "nama": "Dalgona Coffee 250 ml",
+      "deskripsi": "Robusta coffee, Water, Milk.",
+      "harga": 12500,
+      "gambar": "dalgona.JPEG"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Susu Kurma 250 ml",
+      "deskripsi": "Milk, Kurma.",
+      "harga": 15000,
+      "gambar": "susu-kurma.JPEG"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Red Valvet Milky 250 ml",
+      "deskripsi": "Red Valvet, Milk, Water, Creamer, Sugar.",
+      "harga": 12500,
+      "gambar": "red-valvet.JPEG"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Taro Milky 250 ml",
+      "deskripsi": "Taro, Milk, Water, Creamer, Sugar..",
+      "harga": 12500,
+      "gambar": "Taro.JPEG"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Choco Milky 250 ml",
+      "deskripsi": "Coklat, Milk, Water, Creamer, Sugar.",
+      "harga": 12500,
+      "gambar": "choco.JPEG"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Green Tea Milky",
+      "deskripsi": "Green tea, Milk, Water, Creamer, Sugar.",
+      "harga": 12500,
+      "gambar": "greentea.JPEG"
+    },
+    {
+      "kategori": "non coffee",
+      "nama": "Matcha Tea Milky",
+      "deskripsi": "Matcha, Milk, Water, Creamer, Sugar.",
+      "harga": 12500,
+      "gambar": "matcha.JPEG"
+    },
+    {
+      "kategori": "nasi",
+      "nama": "Meatballs Beef Mushroom",
+      "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
+      "harga": 40000,
+      "gambar": "meatballs-beef-mushroom.jpg"
+    },
+    {
+      "kategori": "nasi",
+      "nama": "Black Pepper Chicken",
+      "deskripsi": "Ayam dengan saus lada hitam.",
+      "harga": 40000,
+      "gambar": "black-pepper-chicken.jpg"
+    },
+    {
+      "kategori": "nasi",
+      "nama": "Oriental Chicken",
+      "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+      "harga": 40000,
+      "gambar": "oriental-chicken.jpg"
+    },
+    {
+      "kategori": "snack",
+      "nama": "Makaroni Jahannam 50 gram",
+      "deskripsi": "",
+      "harga": 10000,
+      "gambar": "makaroni.jpg"
+    },
+    {
+      "kategori": "snack",
+      "nama": "Pang pang pedas 50 gram",
+      "deskripsi": "",
+      "harga": 10000,
+      "gambar": "pangpang.jpg"
+    },
+    {
+      "kategori": "snack",
+      "nama": "Basreng 50 gram",
+      "deskripsi": "",
+      "harga": 10000,
+      "gambar": "basreng.jpg"
+    },
+    {
+      "kategori": "snack",
+      "nama": "Kentang Mustofa 100 gram",
+      "deskripsi": "",
+      "harga": 20000,
+      "gambar": "kentang.jpg"
+    },
+    {
+      "kategori": "snack",
+      "nama": "Madu Murni Al-Nahla 250 ml",
+      "deskripsi": "",
+      "harga": 55000,
+      "gambar": "madu.JPEG"
+    }
+  ]
+}
